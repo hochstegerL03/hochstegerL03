@@ -1,4 +1,6 @@
-### Hi there 👋
+### Grettings
+Welcome on my humble profile page. 
+I am currently looking out for an IT-related job-position. Down below in my many different repositories you can make yourself a quick picture of my professional-self. Have a great time exploring!
 
 <!--
 **hochstegerL03/hochstegerL03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
